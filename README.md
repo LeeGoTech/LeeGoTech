@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Daniel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
 
 ## About Me 🚀
-- 🎓 Still learning. Soon to be a **data science professional**.<img alt="Night Coding" src="https://cdn.dribbble.com/users/634508/screenshots/2172083/media/1cc2d961f9b95d233963a7868214ca93.gif" align="right" style="width:340 px; height: 100px; position: relative; bottom: 300px">
+- 🎓 Still learning. Soon to be a **data science professional**.<img alt="Night Coding" src="https://cdn.dribbble.com/users/634508/screenshots/2172083/media/1cc2d961f9b95d233963a7868214ca93.gif" align="right" style="width:300 px; height: 90px; position: relative; bottom: 300px">
 - 🏴‍☠️ Not a programmer, but can do coding.
-## "Just do your best and God will do the rest"
+## "Just do your best and God will do the rest" 
 
 ## 💪 Strengths
 - 👁️‍🗨️ Mathematics, Science [Biology, Chemistry, Physics], Logic
