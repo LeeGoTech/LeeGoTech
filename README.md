@@ -6,7 +6,7 @@
 ## "Just do your best and God will do the rest." 
 
 ## 💪 Strengths
-- 📐 Mathematics **[Algebra, Statistics Logic]**
+- 📐 Mathematics **[Algebra, Statistics, Logic]**
 - 🧬 Science **[Biology, Chemistry, Physics]**
 
 ## 📫 Contact Me
