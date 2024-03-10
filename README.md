@@ -26,5 +26,5 @@
 
 # 🏆 Coding Achievements:
 - 🌟 **EVCO 2023 4th Placer** (out of 28 universities/state colleges) - **Java Category (73/150)** w/ <a href="https://github.com/KiyoScript">John Lloyd</a> and <a href="https://github.com/nathanielkatesimon">Nathaniel Kate</a>.
-<a href="https://sites.google.com/southernleytestateu.edu.ph/programmingcontest/home?authuser=0"><img alt="Night Coding" src="https://github.com/LeeGoTech/LeeGoTech/assets/119865852/db5b569d-e653-4a86-b96c-fce993e89d19" style="width:718px;"></a>
+<a href="https://sites.google.com/southernleytestateu.edu.ph/programmingcontest/home?authuser=0" target="_blank"><img alt="Night Coding" src="https://github.com/LeeGoTech/LeeGoTech/assets/119865852/db5b569d-e653-4a86-b96c-fce993e89d19" style="width:718px;"></a>
 ![Certificate](https://github.com/LeeGoTech/LeeGoTech/assets/119865852/0b75bb5e-0f4f-4e36-9996-195632bb8fbc)
